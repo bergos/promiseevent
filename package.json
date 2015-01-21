@@ -1,0 +1,20 @@
+{
+  "name": "promiseevent",
+  "version": "0.0.1",
+  "description": "Asynchronous event handling using ES6 promises",
+  "keywords": [
+    "event",
+    "promise"
+  ],
+  "author": "bergi@axolotlfarm.org",
+  "license": "MIT",
+  "main": "promiseevent.js",
+  "devDependencies": {
+    "es6-promise": "2.*",
+    "mocha": "2.*"
+  },
+  "readmeFilename": "README.md",
+  "repository": "git://github.com/bergos/promiseevent.git",
+  "homepage": "https://github.com/bergos/promiseevent",
+  "bugs": "https://github.com/bergos/promiseevent/issues"
+}
